@@ -1,0 +1,9 @@
+externo\AccesoExterno.class
+com\mycompany\jerarquiamacotas\ClinicaMacotas.class
+partUno\Mascotas.class
+partUno\ClinicaVeterinaria.class
+partDos\TestCasting.class
+PartTres\AccesoMismoPaquete.class
+partUno\Gato.class
+partUno\Perro.class
+PartTres\Mascota.class
