@@ -1,0 +1,5 @@
+En esta actividad desarrollé una interfaz gráfica en Java utilizando la biblioteca Swing. El objetivo fue interactuar con elementos visuales y aprender a abrir una ventana desde otra mediante botones.
+
+En la ventana principal, llamada VentanaPrincipal, implementé dos botones. El primero, llamado bttCambioColor, permite al usuario abrir un selector de color (JColorChooser) y usar el color elegido para cambiar el fondo de un panel llamado panelBienvenida. El segundo botón, bttCambiarVentana, permite abrir una segunda ventana llamada VentanaSecundaria.
+
+La clase VentanaSecundaria fue diseñada como un JDialog, lo que significa que se abre como una ventana emergente y está relacionada con la principal. Al iniciarse, muestra un mensaje utilizando JOptionPane, el cual sirve para dar información al usuario de forma sencilla.
